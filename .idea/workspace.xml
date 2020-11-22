@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0283abcd-d036-45f8-9329-75f7306531fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kesz8uFNTC4RmR3GO4AssJiKoh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Admin\Code\curryable-ts\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.All Tests">
+    <configuration name="All Tests" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adding" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/index.test.ts" />
+      <test-names>
+        <test-name value="adding" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="basic" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/index.test.ts" />
+      <test-names>
+        <test-name value="basic" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.All Tests" />
+      <item itemvalue="Jest.basic" />
+      <item itemvalue="Jest.adding" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.adding" />
+        <item itemvalue="Jest.basic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0283abcd-d036-45f8-9329-75f7306531fd" name="Default Changelist" comment="" />
+      <created>1606072652278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606072652278</updated>
+      <workItem from="1606072653862" duration="11773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test/index.test.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606073949181">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.299.1920.1080/-1920.370.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1606073949181" />
+    <state x="92" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606074730651">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.299.1920.1080/-1920.370.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1606074730651" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1606084461964">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/1920.299.1920.1080/-1920.370.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1606084461964" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1606084461963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/1920.299.1920.1080/-1920.370.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1606084461963" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1606084461963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/1920.299.1920.1080/-1920.370.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1606084461963" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1606084461963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/1920.299.1920.1080/-1920.370.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1606084461963" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1606074455201">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/1920.299.1920.1080/-1920.370.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1606074455201" />
+  </component>
+</project>
